@@ -3,8 +3,5 @@ export const metadata = {
 };
 
 export default function Page() {
-  return <>
-      <h1>App Router</h1>
-      <p>Beo context is nope</p>
-  </>;
+  return <h1>App Router</h1>;
 }
